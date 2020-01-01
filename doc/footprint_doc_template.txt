@@ -1,0 +1,6 @@
+filename: Example-ABC-123.kicad_mod
+parts: abc-123, abc-456, other_manufacturer-222
+description: A simple footprint for Example Inc's. ABC-123 keyswitch. This footprint exactly matches the datasheet's description. It should also fit the ABC 456 keyswitch and the Other Manufacturer 222 switch, which is a drop-in replacement for the ABC-123
+datasheets: https://example.com/datasheets/Switch_ABC-123.pdf ; https://other.example.com/datasheets/222-switch.pdf
+notes: This footprint has been tested in production and is suitable for both DIY boards and mass-produced boards. 
+author: J. Random Hacker <hacker@example.com>
