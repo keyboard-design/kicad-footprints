@@ -1,0 +1,6 @@
+filename: Kailh-CPG1350.kicad_pcb
+parts: Kailh CPG1350 Choc switches
+description: A simple footprint for Kailh's Choc keyswitch series.
+datasheets: https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/Kailh/CPG135001D02%20BROWN.pdf
+notes: This footprint has not been tested in production
+author: Jesse Vincent <jesse@keyboard.io>

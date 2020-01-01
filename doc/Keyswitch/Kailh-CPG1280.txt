@@ -1,0 +1,6 @@
+filename: Kailh-CPG1280.kicad_mod
+parts: CPG1280
+description: A simple footprint for Kailh's "mini" keyswitch with an MX-style mount.
+datasheets: https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/Kailh/CPG128001S03_Brown_stem_Tactile.pdf
+notes: This footprint has been tested in production.
+author: Jesse Vincent <jesse@keyboard.io>

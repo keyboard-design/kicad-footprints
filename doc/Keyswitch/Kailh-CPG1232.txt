@@ -1,0 +1,6 @@
+filename: Kailh-CPG1232.kicad_pcb
+parts: Kailh CPG1232 (Choc Mini)
+description: A simple footprint for Kailh's Choc Mini keyswitches
+datasheets: https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/Kailh/CPG123201D01--Choc_Blue.pdf
+notes: This footprint has not been tested in production.
+author: Jesse Vincent <jesse@keyboard.io>

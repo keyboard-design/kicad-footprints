@@ -1,0 +1,6 @@
+filename: Kailh-CPG1425.kicad_pcb
+parts: CPG1425 X-Switch
+description: A simple footprint for Kailh's X Switch
+datasheets: https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/Kailh/CPG142501D02.pdf
+notes: This footprint has had limited production testing
+author: Jesse Vincent <jesse@keyboard.io>

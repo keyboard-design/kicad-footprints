@@ -1,0 +1,6 @@
+filename: Kailh-CPG1511.kicad_mod
+parts: CPG1511; many others
+description: A simple footprint for Kailh's MX-style keyswitches. It should also be suitable for Cherry MX switches and other Cherry-compatible switches
+datasheets: https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/Kailh/CPG151101D06-Brown.pdf
+notes: This footprint has been tested in production and should be suitable for both DIY boards and mass-produced boards. 
+author: Jesse Vincent <jesse@keyboard.io>
