@@ -1,4 +1,8 @@
-This repo is intended to be a shared resource for the keyboard community to build a library of best-practice footprints for keyswitches and other related components.
+This repo is intended to be a shared resource for the keyboard community to build a library of best-practice footprints for keyswitches and other related components like LEDs, connectors, socketable microcontrollers, etc.
+
+We need to develop some naming conventions and design standards. For now, you should assume that everything in this repository is unstable.
+
+Every footprint should have an associated file in the doc/ directory which describes the design decisions behind the footprint, points to a relevant datasheet or layout drawing, and provides usage notes.
 
 If you'd like to contribute, please send a pull request. 
 
