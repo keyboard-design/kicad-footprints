@@ -1,0 +1,6 @@
+filename: Matias-KS101.kicad_mod
+parts: Matias KS101, Matias KS101Q, other ALPS style switches
+description: A simple footprint for through-hole mounted ALPS style switches, based on the datasheet drawings for the Matias KS101
+datasheets: https://github.com/keyboardio/keyswitch_documentation/tree/master/datasheets/Matias/Matias%20Quiet%20Click%20Mechanical%20Keyswitches_files
+notes: 
+author: Jesse Vincent <jesse@keyboard.io>

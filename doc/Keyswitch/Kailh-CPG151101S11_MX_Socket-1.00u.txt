@@ -1,0 +1,6 @@
+filename: Kailh-CPG151101S11_MX_Socket-1.00u.kicad_pcb
+parts: Kailh-CPG151101S11, Gateron's equivalent product
+description: A footprint for Kailh's Hot-Swap socket for MX-style switches. 
+datasheets:  https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/Kailh/CPG151101S11_MX_Socket.pdf
+notes: This footprint has rounded, oversized pads to help reduce shearing problems reported with other footprints and plated through-holes to allow the footprint to be used for DIY boards without sockets (but with a lot of solder.)  This footprint has slightly oversized holes based on production feedback from Keyboardio's manufacturing partner.
+author: Jesse Vincent <jesse@keyboard.io>
