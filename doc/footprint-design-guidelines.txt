@@ -1,0 +1,29 @@
+# Overview
+
+Authors have many, many choices when drawing PCB footprints. This document outlines our -preferences- for footprints in this repository. Our goal is that footprints should be drawn in a similar style, so it's easier for people to use them when making keyboards.
+
+If you think you have a good reason for ignoring one or more of these guidelines when drawing a footprint, it's probably ok.
+
+If you think one (or all) of these rules are wrong, or if you think we are missing a rule or recommendation here, please open a bug on GitHub. 
+
+
+# Positioning
+
+#. All components should be centered on 0,0. For SMT components, this matches the KiCad standard libraries.  For through-hole components like switches, this is different than KiCAD's standard. (KiCAD's standard libraries treat 0,0 as the location of Pin 1 on through-hole components)
+
+#. Keyswitch footprints should be drawn with the "top" layer side corresponding to the top of the PCB.  Most other footprints should be drawn with the "top" side copper layer as the layer the component is mounted on.  The exception to this rule is with components which are intended to mount on the back of a PCB, like LEDs which shine through the PCB or keyswitch sockets. 
+
+#. For switches which safely can be rotated 180 degrees, we default to pins at the top of the component.
+
+
+# Layers
+
+
+#. Dwgs.User should match the vendor-recommended spacing of a keyswitch with keycap mounted. (For example, MX switches might have a 19mm or 19.05mm box on Dwgs.User)
+
+#. F.CrtYd (or B.CrtYrd) should match the vendor-recommended courtyard for the switch. This usually represents an area where no other component may be placed
+
+# Eco2.User should be used for a plate cutout for a keyswitch, if one exists.
+
+
+
