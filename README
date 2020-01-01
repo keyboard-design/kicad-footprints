@@ -1,4 +1,15 @@
+# Introduction
+
 This repo is intended to be a shared resource for the keyboard community to build a library of best-practice footprints for keyswitches and other related components like LEDs, connectors, socketable microcontrollers, etc.
+
+* WARNING * 
+
+You should always verify that a footprint is correct by comparing the footprint to your components before fabricating circuit boards. While we believe these components will be useful to you, they're provided with no warranty or guarantee. 
+
+If you find an error or mistake, please open a bug on GitHub. 
+
+
+# TODO
 
 We need to develop some naming conventions and design standards. For now, you should assume that everything in this repository is unstable.
 
